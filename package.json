@@ -1,0 +1,16 @@
+{
+  "name": "pets-wx",
+  "version": "1.0.0",
+  "description": "pets-wx",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
